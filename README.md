@@ -13,46 +13,45 @@
       <h1>Ton Nom</h1>
       <p class="titre">Développeur Web</p>
       <div class="contact">
-        <span>📧 ton.email@example.com</span>
-        <span>📍 Ta ville, Ton pays</span>
-        <span>🌐 <a href="https://charliesstoriees.github.io" target="_blank">charliesstoriees.github.io</a></span>
+        <span>📧 email@exemple.com</span>
+        <span>📱 06 12 34 56 78</span>
+        <span>📍 Paris, France</span>
       </div>
     </header>
 
-    <section class="profil">
+    <section>
       <h2>Profil</h2>
-      <p>
-        Développeur web passionné, curieux et autonome, intéressé par le front-end, le back-end
-        et l’expérience utilisateur. Toujours partant pour apprendre de nouvelles technologies.
-      </p>
+      <p>Courte description de toi et de tes objectifs professionnels.</p>
     </section>
 
-    <section class="competences">
-      <h2>Compétences</h2>
-      <ul>
-        <li><strong>Langages :</strong> HTML, CSS, JavaScript</li>
-        <li><strong>Outils :</strong> Git, GitHub, VS Code</li>
-        <li><strong>Frameworks :</strong> (à compléter si tu en utilises)</li>
-      </ul>
+    <section>
+      <h2>Expérience</h2>
+      <div class="item">
+        <h3>Poste occupé</h3>
+        <p class="date">Entreprise • 2022 - Présent</p>
+        <ul>
+          <li>Réalisation principale</li>
+          <li>Autre accomplissement</li>
+        </ul>
+      </div>
     </section>
 
-    <section class="experience">
-      <h2>Expériences</h2>
-      <article>
-        <h3>Projet perso – Portfolio</h3>
-        <p><em>2025</em></p>
-        <p>
-          Création d’un site web personnel pour présenter mes projets, avec mise en ligne via GitHub Pages.
-        </p>
-      </article>
-    </section>
-
-    <section class="formation">
+    <section>
       <h2>Formation</h2>
-      <article>
-        <h3>Nom de la formation / diplôme</h3>
-        <p><em>Établissement – Années</em></p>
-      </article>
+      <div class="item">
+        <h3>Diplôme obtenu</h3>
+        <p class="date">École • 2018 - 2022</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Compétences</h2>
+      <div class="tags">
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>JavaScript</span>
+        <span>Git</span>
+      </div>
     </section>
   </div>
 </body>
