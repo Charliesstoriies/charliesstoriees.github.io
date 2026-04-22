@@ -10,7 +10,7 @@
 <body>
   <div class="cv">
     <header>
-      <h1>Ton Nom</h1>
+      <h1>Loure Charlotte</h1>
       <p class="titre">Développeur Web</p>
       <div class="contact">
         <span>📧 email@exemple.com</span>
