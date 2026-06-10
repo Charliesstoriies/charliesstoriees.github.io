@@ -89,3 +89,14 @@ ul {
   border-radius: 20px;
   font-size: 0.9rem;
 }
+section a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section a:hover {
+  text-decoration: underline;
+}
+
+
