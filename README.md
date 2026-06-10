@@ -86,6 +86,24 @@
       </div>
 
     </section>
+<section>
+  <h2>Portfolio</h2>
+
+  <div class="item">
+    <h3>Projet 1 — Site CV en HTML/CSS</h3>
+    <p>Création d’un CV numérique moderne avec mise en page responsive, hébergé sur GitHub Pages.</p>
+    <a href="https://charliesstoriies.github.io/charliesstoriees.github.io" target="_blank">
+      Voir le projet
+    </a>
+  </div>
+
+  <div class="item">
+    <h3>Projet 2 — Exemple de projet</h3>
+    <p>Ajoute ici un autre projet : exercice, mini‑site, page HTML, ou projet en cours.</p>
+    <a href="#" target="_blank">Voir le projet</a>
+  </div>
+
+</section>
 
     <section>
       <h2>Disponibilités</h2>
